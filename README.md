@@ -1,3 +1,6 @@
+Certainly! Here's the updated code with learning icons for various technologies:
+
+```markdown
 <h1 align="center">👋 Hi there, I'm Jude Banner</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🎓 BSc (Hons) Software Engineering</h3>
 
@@ -5,7 +8,16 @@
   <img src="https://komarev.com/ghpvc/?username=judebanner&label=Profile%20views&color=0e75b6&style=flat" alt="judebanner" />
 </p>
 
-- 🌱 I’m currently learning **JavaScript, React, NodeJS, and Laravel**
+- 🌱 I’m currently learning 
+
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 
@@ -49,4 +61,6 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=judebanner&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+```
 
+Feel free to copy and paste this code into your GitHub profile README. If you have any further customization or specific elements you'd like to add, let me know!
