@@ -53,4 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushujan&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=anushujan&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
