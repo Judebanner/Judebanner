@@ -13,7 +13,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/judesukirthan/" target="blank">
+  <a href="(https://www.linkedin.com/in/jude-sukirthan-71a959252/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>&nbsp;
   <a href="https://twitter.com/anushujan" target="blank">
