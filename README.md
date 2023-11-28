@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 
-- 📫 Reach me at **[anushujan28@gmail.com](mailto:anushujan28@gmail.com)**
+- 📫 Reach me at **[brucebanner@gmail.com](mailto:brucebanner@gmail.com)**
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:+94 0761621567</h3>
 <p align="left">
   <a href="(https://www.linkedin.com/in/jude-sukirthan-71a959252/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
