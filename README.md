@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Anushujan Satkunarasa</h1>
+<h1 align="center">👋 Hi there, I'm JUDE BANNER</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🎓 BSc (Hons) Software Engineering</h3>
 
 <p align="center"> 
