@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Judebanner
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning node.js ,express.js,react, phython, java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -call or text this number :+94 0761621567
+# Hello, I'm [JUDE BANNER]! 👋
 
-<!---
-Judebanner/Judebanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile.
+
+## About Me
+
+I'm a [Your Profession] based in [Your Location]. I have a passion for [Your Interests or Technologies]. In my free time, I enjoy [Your Hobbies].
+
+## 🔧 Technologies & Tools
+
+- Programming Languages: [Languages]
+- Frameworks & Libraries: [Frameworks/Libraries]
+- Databases: [Databases]
+- Tools: [Tools]
+
+## 🌱 I'm Currently Learning
+
+[What you are currently learning or focusing on.]
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [Your Twitter Profile]
+
+## ⚡ Fun Fact
+
+[Interesting fact about yourself.]
+
+<!-- Add more sections as needed. -->
+
