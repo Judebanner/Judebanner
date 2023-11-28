@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Full-Stack Developer | 🎓 BSc (Hons) Software Engineering</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=anushujan&label=Profile%20views&color=0e75b6&style=flat" alt="anushujan" />
+  <img src="https://komarev.com/ghpvc/?username=judebanner&label=Profile%20views&color=0e75b6&style=flat" alt="anushujan" />
 </p>
 
-- 🌱 I’m currently learning **JavaScript, React, and NodeJS**
+- 🌱 I’m currently learning **JavaScript, React, and NodeJS,laravel**
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 
