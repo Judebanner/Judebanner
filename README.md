@@ -1,30 +1,56 @@
-# Hello, I'm [JUDE BANNER]! 👋
+<h1 align="center">👋 Hi there, I'm Anushujan Satkunarasa</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🎓 BSc (Hons) Software Engineering</h3>
 
-Welcome to my GitHub profile.
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=anushujan&label=Profile%20views&color=0e75b6&style=flat" alt="anushujan" />
+</p>
 
-## About Me
+- 🌱 I’m currently learning **JavaScript, React, and NodeJS**
 
-I'm a [Your Profession] based in [Your Location]. I have a passion for [Your Interests or Technologies]. In my free time, I enjoy [Your Hobbies].
+- 💬 Ask me about **HTML, CSS, and JavaScript**
 
-## 🔧 Technologies & Tools
+- 📫 Reach me at **[anushujan28@gmail.com](mailto:anushujan28@gmail.com)**
 
-- Programming Languages: [Languages]
-- Frameworks & Libraries: [Frameworks/Libraries]
-- Databases: [Databases]
-- Tools: [Tools]
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anushujansatkunarasa/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+  </a>&nbsp;
+  <a href="https://twitter.com/anushujan" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32" />
+  </a>&nbsp;
+  <a href="https://instagram.com/anushujansatkunarasa" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/channel/UC_sndH7eiQFJcikNSQ0QMHA" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32" />
+  </a>
+</p>
 
-## 🌱 I'm Currently Learning
+<h3 align="left">💻 Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="32" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="32" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="32" />
+</p>
 
-[What you are currently learning or focusing on.]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushujan&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 
-## 📫 Let's Connect
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushujan&theme=gotham&hide_border=true" />
+</p>
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Profile]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushujan&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-## ⚡ Fun Fact
-
-[Interesting fact about yourself.]
-
-<!-- Add more sections as needed. -->
 
